@@ -1,4 +1,3 @@
-# IndieBeats-Projekt-na-Praktyki
 # IndieBeats – Strona internetowa zespołu indie
 
 **Opis projektu**
