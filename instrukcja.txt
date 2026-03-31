@@ -1,0 +1,13 @@
+1. Zainstaluj zależności:
+npm install
+
+2. Uruchom lokalny serwer deweloperski:
+npm run dev
+
+3. Otwórz w przeglądarce:
+http://localhost:3000
+
+4. Sprawdź API:
+http://localhost:3000/api/home
+http://localhost:3000/api/items
+http://localhost:3000/api/items/midnight-city
