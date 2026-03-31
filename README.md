@@ -7,7 +7,7 @@ Celem było stworzenie nowoczesnej strony wykorzystującej:
 
 - **Frontend:** Nuxt 3 + Vue 3 + TypeScript
 - **Backend:** minimalistyczne API w TypeScript
-- **SEO: zopytmalizowane pod silink wyszukiwania**  
+- **SEO:** zopytmalizowane pod silink wyszukiwania 
 
 Strona pokazuje:
 
